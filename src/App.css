@@ -1,8 +1,8 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #1d2634;
-    color: #9e9ea4;
+    background-color: #072350;
+    color: #b1b1dd;
     font-family: 'Montserrat', sans-serif;
   }
   
@@ -57,10 +57,11 @@ body {
   #sidebar {
     grid-area: sidebar;
     height: 100%;
-    background-color: #263043;
+    background-color: #163061;
     overflow-y: auto;
     transition: all 0.5s;
     -webkit-transition: all 0.5s;
+    box-shadow: 0 6px 7px 5px rgba(0, 0, 0, 0.35);
   }
   
   .sidebar-title {

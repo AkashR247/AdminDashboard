@@ -13,7 +13,7 @@ function Header({OpenSidebar}) {
             <BsJustify className='icon' onClick={OpenSidebar}/>
         </div>
         <div className='header-left'>
-          <p>Hello Shahrukh
+          <p>Hello Akash
             <PiHandWavingBold  className='icon'/>,
             </p>
         </div>
